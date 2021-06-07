@@ -1,0 +1,9 @@
+Exercise 1 :
+
+1.	Create a new project in which create a package named org.animals.
+	In that create various classes like Lion, Tiger, Deer, Monkey, Elephant and Giraffe.
+	In each class create data members like color, weight,age etc. Create methods like isVegetarian, canClimb, sound etc.
+	
+	
+2.	Create another project and in that create a package called zoo and create a class called VandalurZooand create objects for the animals 
+	that are existing in zoo and print the characteristic of each animal.
