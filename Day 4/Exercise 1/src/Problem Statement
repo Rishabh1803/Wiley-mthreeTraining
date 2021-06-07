@@ -1,0 +1,10 @@
+Exercise 1:
+
+	Create a class with 4 threads and display a table structured output with the following details
+	every 100 seconds 5 times:
+	
+		1.	The Id of the thread
+		2.	The name of the thread
+		3.	Whether the thread is alive or not
+		4.	The status of the thread
+		5.	The priority level of the thread

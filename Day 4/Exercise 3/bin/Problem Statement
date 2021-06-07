@@ -1,0 +1,13 @@
+Exercise 3:
+
+Write a class called Clock with three methods Tick, Tack and Tock each displaying tick, tack and tock 
+as messages respectively.The output should be as follows:
+
+Tick1 Tack1 Tock 1
+Tick2 Tack2 Tock 2
+Tick3 Tack3 Tock 3
+.
+.
+.
+.
+The output goes on till 60.

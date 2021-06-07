@@ -1,0 +1,15 @@
+Exercise 5:
+
+Consider the following scenario. Whenever a hen lays an egg its owner sells the egg to a shop.
+In the last 4 months the owner has gained Rs 100 by selling eggs in the rate of Rs 2 per egg. 
+
+Display the following messages: 
+
+	Hen Laid the Egg – 1
+	Owner gained Rs 2
+	Hen Laid the Egg – 2
+	Owner gained Rs 4
+	…
+	…
+	…
+	…. So on.
